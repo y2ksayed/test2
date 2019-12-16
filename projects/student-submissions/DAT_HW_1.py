@@ -6,13 +6,12 @@ def palindrome(n):
     x=''
     n=str(n)
     for i in range(len(n),0,-1):
-        x=x+n[i-1]
+        x += n[i-1]
     if x == n:
         return True
     else:
         return False
-print()
-
+    
 def max_palindrome():
     list=[]
     firstmaxlist=[]
@@ -55,16 +54,16 @@ def sum_multiples(x,y,z):
 sum_multiples(3,5,1000)
 
 #homework4
-def string_compressor(string):
+def string_compressor(x):
     list=""
     count=1
-    for i in range(1,len(string)):
-        if string[i] == string[i-1]:
+    for i in range(1,len(x)):
+        if x[i] == x[i-1]:
             count +=1
         else:
-            list += (string[i-1]+str(count))
+            list += (x[i-1]+str(count))
             count = 1
-    list += (string[i]+str(count)) 
+    list += (x[i]+str(count)) 
     return print(list)
 string_compressor("aabcccccaaa")
 
