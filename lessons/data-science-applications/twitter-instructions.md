@@ -18,7 +18,7 @@
 
 ### Running the code
 
-1. Install TwitterAPI: `pip install TwitterAPI`
+1. Install TwitterAPI: `pip install TwitterAPI` or `conda install -c asmeurer twitterapi`
 2. Substitute the four values saved from 'Setting up Twitter API credentials' in `twitter.py` in
 
 ```python
