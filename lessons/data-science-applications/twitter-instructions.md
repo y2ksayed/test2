@@ -7,6 +7,18 @@
 2. Sign In, and then follow the instructions below:
 3. Press "Create New App"
 4. Fill in form (you can enter your website or any website in the 'website' field i.e. http://google.com)
+    - Academic / Student
+    - GA DAT NLP [Name]
+    - General Assembly
+    - @GA
+    - United States
+    - Academic
+    - Academic
+    - Learning about NLP Learning about NLP Learning about NLP Learning about NLP Learning about NLP Learning about NLP             Learning about NLP Learning about NLP Learning about NLP Learning about NLP Learning about NLP
+    - Sentiment analysis Sentiment analysis Sentiment analysis Sentiment analysis Sentiment analysis Sentiment analysis
+    - Learning more on sentiment analysis and NLP Learning more on sentiment analysis and NLP Learning more on sentiment            analysis and NLP
+    - Class presentations Class presentations Class presentations Class presentations Class presentations Class presentations
+    - N/A
 5. Press 'Create application'
 6. Press 'Manage keys ...'
 1. Press 'Create access tokens'
