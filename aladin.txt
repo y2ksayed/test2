@@ -1,3 +1,4 @@
+ I am deleting the line 
 This is aladdin file created.
 
 Let us create another file for us .
