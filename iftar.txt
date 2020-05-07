@@ -1,4 +1,0 @@
-this is iftar file .
-
-Hello ..
-I have added another test line in iftar
