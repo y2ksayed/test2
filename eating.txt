@@ -1,0 +1,3 @@
+eating file 
+this is the line of eating file
+I am adding this line 
