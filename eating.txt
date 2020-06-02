@@ -1,3 +1,0 @@
-eating file 
-I am adding this line
-so you should see 3 lines eating, i am and so  
