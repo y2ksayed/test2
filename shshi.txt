@@ -1,6 +1,0 @@
-This is all the new file
-
-This is file ,
-
-
-shashi file should have total 3 rows ==row cou nt =3
