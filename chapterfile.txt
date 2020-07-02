@@ -3,4 +3,6 @@ First line :come directly  from github and its from user 1
 second line:its also from user1
 
 I am trying to add this line as user2
- this is my first commit as user 2
+
+I am trying to add this as second line as user2 
+
